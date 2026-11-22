@@ -1,0 +1,14 @@
+.env
+secrets
+data
+.claude
+.git
+tests
+**/__pycache__
+*.bat
+*.md
+.repositories
+.venv
+.mcp-venv
+.rebrand_work.py
+*.log
